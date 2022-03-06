@@ -1,1 +1,1 @@
-# 3D-VillageScene using OpenGl
+# 3D-VillageScene using OpenGL
